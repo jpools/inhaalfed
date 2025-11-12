@@ -37,13 +37,13 @@ https://www.beatsbydre.com/
 
 #### Screenshot(s) van de eerste pagina (small screen):
 
-hier de naam van de pagina  
- <img src="CMD/basiswebsite/readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Home
+<img src="CMD/basiswebsite/readme-images/home.png" width="375px" alt="Homepagina van Beatsbydre">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 
-hier de naam van de pagina  
- <img src="CMD/basiswebsite/readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+Giftguide
+<img src="CMD/basiswebsite/readme-images/giftguide.png" width="375px" alt="Pagina voor cadeauvoorstellen">
 
 </details>
 
