@@ -56,6 +56,25 @@ Giftguide
 
 Lijst met je bevindingen die in de test naar voren kwamen:
 
+HOME
+
+De headings worden voorgelezen.
+De linkjes worden voorgelezen en leiden naar de goede plek.
+Een video wordt aangegeven met play/stop button.
+Bij background foto's wordt er een goede alt tekst gegeven.
+Wanneer je bij "Which beats are right for you?" na het oplezen van de image springt hij terug omhoog naar "The Beat holiday giftguide" Daarna springt hij terug naar wat er onder de image van "Which beats are right for you?" staat. Dit kan voor verwarring zorgen omdat deze content ver uit elkaar staat.
+
+Op de homepagina is er een soort carrousel waarbij de images niet worden opgenoemd en ook geen alttekst
+<img src="CMD/basiswebsite/readme-images/geenaltproduct.png" width="375px" alt="Screenshot van foto's van producten zonder alttekst">
+
+Op dezelfde pagina zijn er SVG's die niet worden benoemd en ook geen alttekst hebben.
+<img src="CMD/basiswebsite/readme-images/geenaltsvg.png" width="375px" alt="Screenshot van SVG's zonder alttekst">
+
+De mail SVG wordt geen alt tekst gegeven. Als dit wel zou worden gedaan zou het duidelijker zijn voor de gebruiker.
+<img src="CMD/basiswebsite/readme-images/geenaltmail.png" width="375px" alt="Screenshot van SVG's zonder alttekst">
+
+GIFTGUIDE
+
 </details>
 
 ## Breakdownschets (week 1)
@@ -63,17 +82,25 @@ Lijst met je bevindingen die in de test naar voren kwamen:
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-### de hele pagina:
+### de hele pagina: pagina 1
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="CMD/basiswebsite/readme-images/breakdownschets.png" alt="breakdown van heel pagina 1">
 
 ### dynamisch deel (bijv menu):
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+ <img src="CMD/basiswebsite/readme-images/breakdown-deel-1.png" alt="breakdown header en main pagina 1">
+ <img src="CMD/basiswebsite/readme-images/breakdown-deel-2.png" alt="breakdown main pagina 1">
+ <img src="CMD/basiswebsite/readme-images/breakdown-deel-3.png" alt="breakdown main en footer pagina 1">
 
-### wellicht nog een dynamisch deel (bijv filter):
+### de hele pagina: pagina 2
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="CMD/basiswebsite/readme-images/breakdownschets-2.png" alt="breakdown van heel pagina 2">
+
+### dynamisch deel (bijv menu):
+
+   <img src="CMD/basiswebsite/readme-images/breakdown-giftguide.png" alt="breakdown header en main pagina 2">
+
+Pagina 2 screenshot mist footer. Om een of andere reden pakt hij de footer niet mee in de screenshot. Het is natuurlijk dezelfde footer als pagina 1. Pagina 2 is niet zo interessant op mobiel, maar wanneer je naar tablet of laptop formaat gaat is de content wel interessant.
 
 </details>
 
