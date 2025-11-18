@@ -75,6 +75,19 @@ De mail SVG wordt geen alt tekst gegeven. Als dit wel zou worden gedaan zou het 
 
 GIFTGUIDE
 
+Bij een product zijn er meerdere kleurenopties. De screenreader lees bijvoorbeeld: "Powerbeats Pro 2 black, Powerbeats Pro 2 purple, Powerbeats Pro 2 beige" in 1 keer op. Omdat het zo snel gaat kan het onduidelijk zijn voor de gebruiker welke kleuren er zijn, omdat je constant de naam hoort van het product. Het zou gebruikersvriendelijker zijn als de screenreader "Powerbeats Pro 2 in colors black, orange, purple and beige" opleest. Weet alleen niet of dit mogelijk is.
+
+Meerdere keren op de pagina selecteert voice-over een leeg vakje en zegt "and one more item group" maar er is geen content om op te klikken of beschrijving van iets. Hetzelfde gebeurt iets verder op de pagina. Iets voor de footer is er een kopje met "Which beats are right for you?" Ook daar zijn er meerdere lege vakjes waar "and one more item group" wordt voorgelezen terwijl er niks te zien is.
+<img src="CMD/basiswebsite/readme-images/geentekst-oortjes.png" width="375px" alt="Screenshot van voiceover die een leeg vakje selecteert">
+
+WCAG checklist images:
+
+<img src="CMD/basiswebsite/readme-images/wcag-content.jpg" width="375px" alt="Foto WCAG checklist bladzijde 1">
+<img src="CMD/basiswebsite/readme-images/wcag-keyboard.jpg" width="375px" alt="Foto WCAG checklist bladzijde 2">
+<img src="CMD/basiswebsite/readme-images/wcag-headings.jpg" width="375px" alt="Foto WCAG checklist bladzijde 3">
+<img src="CMD/basiswebsite/readme-images/wcag-appearance.jpg" width="375px" alt="Foto WCAG checklist bladzijde 4">
+<img src="CMD/basiswebsite/readme-images/wcag-media.jpg" width="375px" alt="Foto WCAG checklist bladzijde 5"
+
 </details>
 
 ## Breakdownschets (week 1)
