@@ -1,0 +1,113 @@
+/**************/
+/* CSS REMEDY */
+/**************/
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/*********************/
+/* CUSTOM PROPERTIES */
+/*********************/
+:root {
+  /* startje */
+  --color-text: #111;
+  --color-background: #eee;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+
+@font-face {
+  font-family: "NeuzeitGro-Reg";
+  src: url("../fonts/NeuzeitGro-Reg.woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "NeuzeitGro-Reg;", Arial, sans-serif;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5em;
+  padding: 1em 1em;
+}
+
+.menu img.svg {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+.new-window {
+  width: 0.875em;
+  height: 0.906em;
+  background-color: #ffffff;
+}
+
+.holiday-return {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 0.5em 2.5em;
+}
+
+.holiday-return p {
+  font-size: 14px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.video {
+  width: 100%;
+  height: 75vw;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+.video-text {
+  display: flex;
+  position: absolute;
+  top: 75%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1em;
+}
+
+.article {
+  display: block;
+  position:;
+}
+
+article img {
+  max-height: 295px;
+  margin-left: auto;
+  margin-right: auto;
+}
