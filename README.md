@@ -65,10 +65,10 @@ Bij background foto's wordt er een goede alt tekst gegeven.
 Wanneer je bij "Which beats are right for you?" na het oplezen van de image springt hij terug omhoog naar "The Beat holiday giftguide" Daarna springt hij terug naar wat er onder de image van "Which beats are right for you?" staat. Dit kan voor verwarring zorgen omdat deze content ver uit elkaar staat.
 
 Op de homepagina is er een soort carrousel waarbij de images niet worden opgenoemd en ook geen alttekst
-<img src=".readme-images/geenaltproduct.png" width="375px" alt="Screenshot van foto's van producten zonder alttekst">
+<img src="./readme-images/geenaltproduct.png" width="375px" alt="Screenshot van foto's van producten zonder alttekst">
 
 Op dezelfde pagina zijn er SVG's die niet worden benoemd en ook geen alttekst hebben.
-<img src=".readme-images/geenaltsvg.png" width="375px" alt="Screenshot van SVG's zonder alttekst">
+<img src="./readme-images/geenaltsvg.png" width="375px" alt="Screenshot van SVG's zonder alttekst">
 
 De mail SVG wordt geen alt tekst gegeven. Als dit wel zou worden gedaan zou het duidelijker zijn voor de gebruiker.
 <img src="./readme-images/geenaltmail.png" width="375px" alt="Screenshot van SVG's zonder alttekst">
@@ -78,7 +78,7 @@ GIFTGUIDE
 Bij een product zijn er meerdere kleurenopties. De screenreader lees bijvoorbeeld: "Powerbeats Pro 2 black, Powerbeats Pro 2 purple, Powerbeats Pro 2 beige" in 1 keer op. Omdat het zo snel gaat kan het onduidelijk zijn voor de gebruiker welke kleuren er zijn, omdat je constant de naam hoort van het product. Het zou gebruikersvriendelijker zijn als de screenreader "Powerbeats Pro 2 in colors black, orange, purple and beige" opleest. Weet alleen niet of dit mogelijk is.
 
 Meerdere keren op de pagina selecteert voice-over een leeg vakje en zegt "and one more item group" maar er is geen content om op te klikken of beschrijving van iets. Hetzelfde gebeurt iets verder op de pagina. Iets voor de footer is er een kopje met "Which beats are right for you?" Ook daar zijn er meerdere lege vakjes waar "and one more item group" wordt voorgelezen terwijl er niks te zien is.
-<img src="CMD/basiswebsite/readme-images/geentekst-oortjes.png" width="375px" alt="Screenshot van voiceover die een leeg vakje selecteert">
+<img src="./readme-images/geentekst-oortjes.png" width="375px" alt="Screenshot van voiceover die een leeg vakje selecteert">
 
 WCAG checklist images:
 
