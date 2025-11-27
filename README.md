@@ -83,10 +83,10 @@ Meerdere keren op de pagina selecteert voice-over een leeg vakje en zegt "and on
 WCAG checklist images:
 
 <img src="./readme-images/wcag-content.jpg" width="375px" alt="Foto WCAG checklist bladzijde 1">
-<img src=".readme-images/wcag-keyboard.jpg" width="375px" alt="Foto WCAG checklist bladzijde 2">
-<img src=".readme-images/wcag-headings.jpg" width="375px" alt="Foto WCAG checklist bladzijde 3">
-<img src=".readme-images/wcag-appearance.jpg" width="375px" alt="Foto WCAG checklist bladzijde 4">
-<img src=".readme-images/wcag-media.jpg" width="375px" alt="Foto WCAG checklist bladzijde 5"
+<img src="./readme-images/wcag-keyboard.jpg" width="375px" alt="Foto WCAG checklist bladzijde 2">
+<img src="./readme-images/wcag-headings.jpg" width="375px" alt="Foto WCAG checklist bladzijde 3">
+<img src="./readme-images/wcag-appearance.jpg" width="375px" alt="Foto WCAG checklist bladzijde 4">
+<img src="./readme-images/wcag-media.jpg" width="375px" alt="Foto WCAG checklist bladzijde 5">
 
 </details>
 
@@ -101,7 +101,7 @@ WCAG checklist images:
 
 ### dynamisch deel (bijv menu):
 
- <img src=".readme-images/breakdown-deel-1.png" alt="breakdown header en main pagina 1">
+ <img src="./readme-images/breakdown-deel-1.png" alt="breakdown header en main pagina 1">
  <img src="./readme-images/breakdown-deel-2.png" alt="breakdown main pagina 1">
  <img src="./readme-images/breakdown-deel-3.png" alt="breakdown main en footer pagina 1">
 
